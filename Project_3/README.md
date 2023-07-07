@@ -11,3 +11,5 @@
 **Вывод по проекту:**
 
 
+**Используемые инструменты:** 
+Pandas, Keras, ResNet50, Adam, ImageDataGenerator.
